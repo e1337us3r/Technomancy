@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: dedef2661d8ede94291c6b3a8971a9c2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - skeletonPrefab: {fileID: 4106011417245440832, guid: 7c0f687b5cae9c84dad7344c83d26db6, type: 3}
+  - dragonPrefab: {fileID: 5764060761055994005, guid: e7241fe034b90504b87caf93a0415239, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
